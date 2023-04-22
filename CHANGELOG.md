@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.17.0](https://github.com/AB1908/Templater/compare/1.16.0...1.17.0) (2023-04-22)
+
+
+### Features
+
+* add API for calling new date modal ([5a568e2](https://github.com/AB1908/Templater/commit/5a568e24744c1ce3583a28197fb8f3a85c3549cb))
+* add modal to pick date ([35fa0d7](https://github.com/AB1908/Templater/commit/35fa0d7b16ba33aec5f0bad496fab6c0acb0f733))
+
+
+### Bug Fixes
+
+* fixing merge conflict ([1e2fdda](https://github.com/AB1908/Templater/commit/1e2fdda82f5335bb43b98534698a8c19fea1eba4))
+
 ## [1.16.0](https://github.com/SilentVoid13/Templater/compare/1.15.3...1.16.0) (2022-11-08)
 
 
